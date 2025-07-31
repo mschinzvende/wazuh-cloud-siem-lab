@@ -21,8 +21,11 @@ This project documents my hands-on experience with deploying a cloud-based SIEM 
 
 ## 📸 Screenshots
 
-![Dashboard](./screenshots/dashboard-overview.png)
-![Agent Status](./screenshots/agent-status.png)
+![Dashboard](./screenshots/Wazuh4.JPG)
+![Agent Status](./screenshots/Wazuh6.JPG)
+![Vulnerability Detection](./screenshots/Wazuh3.JPG)
+![Agent Health](./screenshots/Wazuh2.JPG)
+![MITRE ATT&CK mapping](./screenshots/Wazuh7.JPG)
 
 ## 📖 What I Learned
 
