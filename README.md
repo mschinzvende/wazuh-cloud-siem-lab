@@ -20,11 +20,19 @@ This project documents my hands-on experience with deploying a cloud-based SIEM 
 - **Windows 10/11**
 
 ## 📸 Screenshots
-
+**Dashboard**
 ![Dashboard](./screenshots/Wazuh4.JPG)
+
+**Agent Status**
 ![Agent Status](./screenshots/Wazuh6.JPG)
+
+**Vulnerability Detection**
 ![Vulnerability Detection](./screenshots/Wazuh3.JPG)
+
+**Failed Logins per User**
 ![Agent Health](./screenshots/Wazuh2.JPG)
+
+**MITRE ATT&CK mapping**
 ![MITRE ATT&CK mapping](./screenshots/Wazuh7.JPG)
 
 ## 📖 What I Learned
